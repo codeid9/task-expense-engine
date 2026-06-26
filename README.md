@@ -1,6 +1,6 @@
-# CLI Task & Expense Engine
+# Task & Expense Engine
 
-A command-line application built with TypeScript to manage expenses and tasks.
+A TypeScript-based task and expense manager with a graphical interface and local storage support.
 
 ## Features
 
@@ -21,12 +21,20 @@ src/
 ├── managers/
 ├── utils/
 └── index.ts
+app/
+├── HTML
+├── CSS
+└── TypeScript
 
 ## Current Progress
 
-- [x] Project setup
-- [x] TypeScript configuration
-- [x] Expense type definitions
-- [ ] Task management
-- [ ] File storage
-- [ ] CLI commands
+- [x] TypeScript setup
+- [x] Interfaces
+- [x] Literal Types
+- [x] Enums
+- [x] Classes
+- [x] Encapsulation using private properties
+- [x] Expense manager methods
+- [ ] Task manager
+- [ ] Local storage
+- [ ] GUI
