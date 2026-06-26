@@ -8,3 +8,4 @@ const ex1:Expense = {
     type:"Expense",
 }
 
+console.log(ex1);
